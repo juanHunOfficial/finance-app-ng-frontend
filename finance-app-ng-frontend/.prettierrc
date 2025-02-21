@@ -1,0 +1,16 @@
+{
+  "tabWidth": 2,
+  "useTabs": false,
+  "editor.formatOnSave": true,
+  "editor.formatOnPaste": true,
+  "[html]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[css]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "prettier.endOfLine": "auto",
+  "prettier.semi": false,
+  "prettier.singleQuote": true,
+  "prettier.trailingComma": "none"
+}
